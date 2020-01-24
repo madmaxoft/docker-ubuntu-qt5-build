@@ -7,6 +7,7 @@ RUN apt-get -y update && apt-get install -y --no-install-recommends \
 		graphviz \
 		pkg-config \
 		qt5-default \
+		qttools5-dev-tools \
 		libqt5sql5-sqlite \
 		libqt5sql5-mysql \
 		sudo \
